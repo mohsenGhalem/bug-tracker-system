@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+
+linter:
+  rules:
+    non_constant_identifier_names: false
+    avoid_print: false
+
+  
+
